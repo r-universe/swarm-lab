@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "magicLamp"]
+	path = magicLamp
+	url = https://github.com/swarm-lab/magiclamp
+	shallow = true
+	registered = true
+[submodule "ROpenCVLite"]
+	path = ROpenCVLite
+	url = https://github.com/swarm-lab/ropencvlite
+	shallow = true
+	registered = true
+[submodule "trackdf"]
+	path = trackdf
+	url = https://github.com/swarm-lab/trackdf
+	shallow = true
+	registered = true
