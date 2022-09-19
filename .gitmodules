@@ -13,3 +13,8 @@
 	url = https://github.com/swarm-lab/ropencvlite
 	shallow = true
 	registered = true
+[submodule "trackdf"]
+	path = trackdf
+	url = https://github.com/swarm-lab/trackdf
+	shallow = true
+	registered = true

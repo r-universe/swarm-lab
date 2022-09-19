@@ -6,5 +6,9 @@
   {
     "package": "ROpenCVLite",
     "oncran": true
+  },
+  {
+    "package": "trackdf",
+    "oncran": true
   }
 ]
