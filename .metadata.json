@@ -1,5 +1,9 @@
 [
   {
+    "package": "CEC",
+    "oncran": true
+  },
+  {
     "package": "magicLamp",
     "oncran": true
   },
