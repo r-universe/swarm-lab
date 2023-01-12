@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "swaRm",
+    "oncran": true
+  },
+  {
     "package": "trackdf",
     "oncran": true
   }

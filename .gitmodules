@@ -18,6 +18,11 @@
 	url = https://github.com/swarm-lab/ropencvlite
 	shallow = true
 	registered = true
+[submodule "swaRm"]
+	path = swaRm
+	url = https://github.com/swarm-lab/swarm
+	shallow = true
+	registered = true
 [submodule "trackdf"]
 	path = trackdf
 	url = https://github.com/swarm-lab/trackdf
