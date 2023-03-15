@@ -1,10 +1,10 @@
 [
   {
-    "package": "CEC",
+    "package": "magicLamp",
     "oncran": true
   },
   {
-    "package": "magicLamp",
+    "package": "swaRm",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "swaRm",
+    "package": "CEC",
     "oncran": true
   },
   {
