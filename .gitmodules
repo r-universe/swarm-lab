@@ -5,12 +5,12 @@
 [submodule "CEC"]
 	path = CEC
 	url = https://github.com/swarm-lab/cec
-[submodule "magicLamp"]
-	path = magicLamp
-	url = https://github.com/swarm-lab/magiclamp
 [submodule "ROpenCVLite"]
 	path = ROpenCVLite
 	url = https://github.com/swarm-lab/ropencvlite
+[submodule "magicLamp"]
+	path = magicLamp
+	url = https://github.com/swarm-lab/magiclamp
 [submodule "swaRm"]
 	path = swaRm
 	url = https://github.com/swarm-lab/swarm
